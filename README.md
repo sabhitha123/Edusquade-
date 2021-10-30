@@ -1,2 +1,2 @@
-# Edusquade-
+# Snehalaya
 School website 
